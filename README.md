@@ -5,7 +5,7 @@
 ## Información del Proyecto
 
 * **Alumno:** Guillermo Benega  
-* **Institución:** Universidad Tecnológica Nacional – Facultad Regional Buenos Aires (UTN FRBA)  
+* **Institución:** Universidad Tecnológica Nacional – Facultad Regional Buenos Aires  
 * **Curso:** Herramientas Básicas para el Análisis de Datos
 
 ---
@@ -19,8 +19,6 @@
 ---
 
 ## Fuente de Datos
-
-* **Dataset:** FIFA World Cup 2026 Players
 * **Enlace directo:** [FIFA WC 2026 Players Dataset](https://www.kaggle.com/datasets/swaptr/fifa-wc-2026-players)
 
 ---
@@ -31,4 +29,4 @@
 ### 2. Limpieza y Preprocesamiento (ETL)
 ### 3. Análisis Exploratorio de Datos (EDA)
 ### 4. Visualización y Elaboración de Tableros
-### 5. Documentación y Conclusiones
+### 5. Conclusiones
