@@ -19,7 +19,7 @@ El presente proyecto aborda el Análisis Exploratorio de Datos (EDA) para respon
 
 1. **Distribución Etaria:** ¿Qué rango de edad (`age`) tienen mayoritariamente los jugadores participantes en el mundial?
 2. **Desempeño Defensivo según Posición:** Los jugadores cuya posición en cancha está más cerca del arco rival (`FW`, `MF`), ¿interceptaron una menor cantidad de pases (`interceptions`) que el resto (`DF`)? *(Análisis numérico vs. categórico: `interceptions` según `position`)*.
-3. **Distribución grupal de las tareas ofensivas de Seleccionados Finalistas:** ¿Qué relación existe entre los goles marcados (`goals`) y los disparos intentados al arco rival (`shots`), según la posición de los jugadores (`position`), en los seleccionados finalistas de la competencia (`team_country`)?
+3. **Distribución grupal de las tareas ofensivas en los seleccionados finalistas del mundial:** ¿Qué relación existe entre los goles marcados (`goals`) y los disparos intentados al arco rival (`shots`), según la posición de los jugadores (`position`), en los seleccionados finalistas de la competencia (`team_country`)?
 
 ---
 
